@@ -9,3 +9,5 @@ Este es mi repositorio para clase de **metodos y tecnicas de la UEMC**
 [Un enlace interno](#unenlaceyotro)
 
 ### Un enlace. Y otro
+
+Como aprobar ampliacion de sistemas  operativos a la primera
